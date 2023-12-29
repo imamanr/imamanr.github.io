@@ -11,7 +11,10 @@ Links to online profiles:
 
 Projects:
 
-[Github projects](https://github.com/imamanr)
+[Github](https://github.com/imamanr)
+
+
+[Resume](https://github.com/imamanr/publicResume)
 
 
 
